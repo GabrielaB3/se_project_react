@@ -23,6 +23,7 @@
 
 .modal__close {
   position: absolute;
+  background: transparent;
   padding: 0;
   top: 20px;
   right: 28px;

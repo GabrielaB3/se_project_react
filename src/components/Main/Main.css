@@ -6,3 +6,16 @@
   list-style-type: none;
   gap: 21px;
 }
+
+.card__name {
+  font-weight: 700;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.classtext {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 40px;
+  margin-bottom: 34px;
+}
